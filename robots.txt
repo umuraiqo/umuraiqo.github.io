@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://umuraiqo.github.io/Bkw/sitemap_index.txt
+Sitemap: https://umuraiqo.github.io/Ril/sitemap_index.txt
+Sitemap: https://umuraiqo.github.io/tvm/sitemap_index.txt
+Sitemap: https://umuraiqo.github.io/wND/sitemap_index.txt
